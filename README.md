@@ -1,2 +1,2 @@
 # Flower-Power-Asteroid-Attack
-Arcade game for the Doodles community
+A fun arcade game made for the Doodles community by the Doodles community
